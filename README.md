@@ -10,10 +10,11 @@ Thanks for coming to my TED TALK about my bot script, you can download it as a .
 ok here is the code
 
 {
-	"origin": ["this could be a tweet", "this is a tweet", "#completely different#","I am scared of Visual Studio Code","hold on mom xcode is indexing files and I can't pause it","#words#","if twitter is so good, why isn't there a twitter 2","I highly dislike adobe and their products/services","this is a test from cheap bots done quick.","wow this whole #things#thing is pretty cool","Cheap Bots, Done Quick and Tracery is actually pretty good","I ran out of ideas ok goodbye","oh and by the way the last time I updated this bot was on Saturday, June 26,2021. This might seem like a tweet but really this is just so I know when this bot was updated last lol haha"],
+	"origin": ["this could be a tweet", "this is a tweet", "#completely different#","I am scared of Visual Studio Code","hold on mom xcode is indexing files and I can't pause it","#words#","if twitter is so good, why isn't there a twitter 2","I highly dislike adobe and their products/services","this is a test from cheap bots done quick.","wow this whole #things#thing is pretty cool","Cheap Bots, Done Quick and Tracery is actually pretty good","I ran out of ideas ok goodbye","oh and by the way the last time I updated this bot was on Sunday, June 27,2021. This might seem like a tweet but really this is just so I know when this bot was updated last lol haha","one two three four five six seven #number#","I highly dislike all printers apple make a printer and ill buy it"],
 	"completely different" : ["and now for something completely different", "so long and thanks for all the fish", "or, maybe, #number# badgers","yes these are the default tweets in the class ''completely different'' just roll with it."],
 	"number":["2","3","4","5","6","7","8","9","no","10","200","a bunch","too many","not enough","5665456989486946924286942694269264604444848001015061561506"],
 	"words":["john", "dictionary","a","Verb - a word that typically express action, state, or a relation between two things, and that may be inflected for tense, aspect, voice, mood, and to show agreement with their subject or object.","content","hackerman","technology"],
 	"things":["world wide web","www.twitter.com","oxygen","water","living","windows 95"]
 
 }
+
